@@ -1,0 +1,20 @@
+# Зависимости
+node_modules/
+
+# Сборка
+dist/
+build/
+
+# Локальные файлы
+.env
+.vscode/
+
+# Временные файлы
+*.log
+*.swp
+
+# Файлы IDE
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
